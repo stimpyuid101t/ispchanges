@@ -1,1 +1,1 @@
-Using DDNS to overcome ISPs failure to ofer Static IPs.
+Using DDNS to overcome ISPs failure to offer Static IPs.
